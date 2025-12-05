@@ -1,7 +1,5 @@
 <h3 align="center">Um Desenvolvedor focado em ETL e Análise de dados</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuridepieri" alt="yuridepieri" /></a> </p>
-
 - 👨‍💻 Se você precisar realizar um ETL com qualidade **Eu estarei lá**
 
 - 🌱 Estou aprendendo e me especializando em **Python, HTML e CSS**
