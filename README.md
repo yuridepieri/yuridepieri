@@ -1,5 +1,7 @@
 <h3 align="center">Um Desenvolvedor focado em ETL e Análise de dados</h3>
 
+Criar algo do zero não é para qualquer um. Programar é fazer mágica!!!
+
 - 👨‍💻 Se você precisar realizar um ETL com qualidade **Eu estarei lá**
 
 - 🌱 Estou aprendendo e me especializando em **Python, HTML e CSS**
