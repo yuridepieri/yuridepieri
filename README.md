@@ -19,7 +19,7 @@
     <li>📚 Estou aprendendo e aperfeiçoando meu conhecimento em <b>Python, HTML e CSS</b></li>
     <li>📫 Contato: <b>yurivitorassi159@gmail.com</b></li>
     <li>
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yuri-de-pieri" height="19" width="19" style="margin-left:3px;"/> 
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="19" width="19" style="margin-left:3px;"/> 
       Linkedin: <a href="https://www.linkedin.com/in/yuri-de-pieri" target="_blank" style="margin-left:5px;">in/yuri-de-pieri</a>
     </li>
     <li>💾 <b>"O primeiro delete sem where a gente nunca esquece"</b></li>
